@@ -1,0 +1,85 @@
+
+.navbar a {
+  color: white;
+  background-color:  #592b85;
+
+
+}
+
+#navbar-brand {
+  color: #592b85 ;
+
+}
+
+#photo_grid {
+  background-color: white;
+}
+
+#photo_grid2, #James, #fire, #wall, #remember {
+  color: white;
+  background-color:#592b85;
+}
+
+#magna, #title {
+  color: white;
+  background-color: #592b85;
+}
+
+#minim {
+  color: white;
+  background-color:#592b85;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+#mollit {
+  background-color: white;
+}
+
+body {
+  background-color: white;
+  color: #592b85;
+}
+
+img { 
+  width: 100%;
+  height: 100%;
+  object-fit: contain; 
+} 
+
+#logo {
+  float: left;
+  margin-left:1px;
+padding-left: 1px;
+}
+
+.bg-company-red {
+  background-color: #592b85 !important;
+  color: white !important;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.footer {
+  background: #2b2b2b;
+  color: white;
+  height: 50px;
+  border-bottom: white solid 3px;
+}
