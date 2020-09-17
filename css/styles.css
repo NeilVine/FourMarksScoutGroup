@@ -82,3 +82,15 @@ padding-left: 1px;
   color: white;
   border-bottom: white solid 3px;
 }
+
+*:focus {
+  outline: 4px solid lime !important;
+}
+
+#map:focus {
+  outline: 4px solid yellow !important;
+} 
+
+.btn-warning:focus {
+  outline: 4px solid red !important;
+} 
